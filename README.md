@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-![Vaishnavi Bobburi Banner](me.jpg)
+![Vaishnavi Bobburi Banner](banner.png)
 
 # 💫 Hi there, I’m **Vaishnavi Bobburi** 👋  
 🎓 *Aspiring Software Developer | Passionate about Web Development and Problem Solving*  
